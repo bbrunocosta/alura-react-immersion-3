@@ -17,7 +17,7 @@ const MainGrid = styled.main`
     @media screen and (min-width: 860px){
       margin: 0;
       grid-template-columns: 160px 1fr 312px;
-      grid-template-areas: "perfilArea wellcomeArea ProfileRelationsArea"
+      grid-template-areas: "perfilArea wellcomeArea profileRelationsArea"
     }
 `;
 export default MainGrid
