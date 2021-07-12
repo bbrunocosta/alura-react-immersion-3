@@ -5,7 +5,7 @@ export default function Home() {
     <MainGrid>
       <div className="profileArea" style={{gridArea:"perfilArea"}}>
       <Box>
-       Profile
+        <img src="https://github.com/bbrunocosta.png"/>
       </Box>
       </div>
       <div  className="wellcomeArea" style={{gridArea:"wellcomeArea"}}>
